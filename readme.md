@@ -7,11 +7,13 @@ USSD Dynmic Survey is an elegant application  that provide the ability to conduc
 
 ## Official Documentation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Documentation for the USSD Dynmic Survey will be found here (Not yet available).
+
 
 ## Contributing
 
 Thank you for considering contributing to the USSD Dynamic Survey App! 
+
 
 ## Bugs and Security  Vulnerabilities
 
